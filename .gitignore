@@ -1,0 +1,5 @@
+/models
+/rasa_env
+.rasa
+venv
+actions/__pycache__
